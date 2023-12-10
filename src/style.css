@@ -1,0 +1,190 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-item {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 27px 27px;
+}
+
+.nav-item .nav-link {
+    color: #39758b;
+}
+
+
+/* Common section csss */
+
+.common-section {
+    background-image: url("https://thechemco.com/wp-content/uploads/2023/08/Newport-Bridge-2.jpg");
+
+    /* Set the background size */
+    background-size: cover;
+
+    /* Set the background position */
+    background-position: center;
+
+    /* Set the background repeat */
+    background-repeat: no-repeat;
+
+    /* Set the height of the section */
+    height: 400px;
+    /* Adjust the height as needed */
+    font-size: 44px;
+    font-weight: bold;
+    /* Additional styles for content within the section */
+    color: #ffffff;
+    /* Text color */
+    padding: 20px;
+    /* Padding around content */
+}
+
+
+h3 {
+    color: #39758b;
+    font-weight: 700;
+}
+
+.common-section .content {
+    text-align: left;
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.section-3 {
+    font-weight: 700;
+    color: #7a7a7a;
+    background-color: #E7E7E8;
+}
+
+
+
+.section-4 .col-3 {
+    height: 300px;
+    background-image: url('https://thechemco.com/wp-content/uploads/2020/11/HexagonIconBG.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-4>p {
+    font-size: 20px;
+    font-weight: 700;
+    color: #7a7a7a;
+}
+
+
+.btn-button {
+    background-color: #39758b;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    border-radius: 1px;
+    width: 277px;
+}
+
+
+.btn-button:hover {
+    border: 1px solid black
+}
+
+.section-5 {
+    margin-top: 20px;
+    padding: 50px 0px;
+    background-image: url('https://thechemco.com/wp-content/uploads/2023/07/background-1@2x.png');
+    /* Set the background size */
+    background-size: cover;
+
+    /* Set the background position */
+    background-position: center;
+
+    /* Set the background repeat */
+    background-repeat: no-repeat;
+
+}
+
+.footer {
+    cursor: pointer;
+}
+
+.footer .section-2 {
+    font-size: 12px;
+}
+
+.btn-button-subscribe {
+    background-color: #39758b;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    border-radius: 1px;
+}
+
+.title {
+    color: #39758b;
+}
+.header {
+    font-size: 14px;
+    color: #39758b;
+}
+.header > div {
+    padding: 0px 5px;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+
+.title{
+    color: #39758b;
+}
+
+.heading-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.heading-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #7a7a7a;
+    margin: 0 10px;
+}
+
+.heading-text {
+    color: #7a7a7a;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 26px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.p-item {
+    color: #39758b;
+    font-weight: bold;
+}
+
+.p-item:hover {
+    cursor: pointer;
+    border-bottom: 2px solid #39758b;
+}
+
+.btn-button-rq-quote {
+    background-color: #39758b;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 1px;
+}
